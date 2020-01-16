@@ -10,7 +10,7 @@ import (
 
 const (
 	rpcEndpointFlag = "rpcendpoint"
-	evrynetEndpoint = "http://52.220.52.16:22001"
+	evrynetEndpoint = "http://0.0.0.0:8545"
 )
 
 // EvrynetEndpoint returns configured Evrynet node endpoint.
